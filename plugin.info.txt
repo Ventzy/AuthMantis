@@ -1,0 +1,7 @@
+base   authmantis
+author Ventzy Kunev
+email  v.kunev@gmail.com
+date   2013-08-10
+name   AuthMantis plugin
+desc   Mantis authentication integration
+url    http://ventzy.com
